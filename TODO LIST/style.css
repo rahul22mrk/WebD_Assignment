@@ -1,0 +1,41 @@
+.title2 {
+    color: lime;
+    text-transform: uppercase;
+    font-weight: 800;
+}
+
+h1 {
+    color: #fff;
+    font-size: 3rem;
+    font-weight: 50;
+    text-align: center;
+    margin: 1rem 0 3rem;
+    font-family: 'Hind', sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100%;
+    background-color: #111;
+    box-sizing: border-box;
+}
+
+.title-t {
+    color: #fff;
+    font-size: 2rem;
+    font-weight: 50;
+    text-align: center;
+    font-family: 'Hind', sans-serif;
+}
+
+#items {
+    color: #fff;
+    font-size: 2rem;
+    font-weight: 50;
+    font-family: 'Hind', sans-serif;
+}
